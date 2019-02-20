@@ -1,0 +1,163 @@
+src/service/DateDifferenceProvider.java:6:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/service/DateDifferenceProvider.java:6:	Header comments are required
+src/service/DateDifferenceProvider.java:9:	Field comments are required
+src/service/DateDifferenceProvider.java:10:	Avoid excessively long variable names like DAY_IN_A_LEAP_YEAR
+src/service/DateDifferenceProvider.java:10:	Field comments are required
+src/service/DateDifferenceProvider.java:11:	Avoid excessively long variable names like DAY_IN_A_NON_LEAP_YEAR
+src/service/DateDifferenceProvider.java:11:	Field comments are required
+src/service/DateDifferenceProvider.java:12:	Field comments are required
+src/service/DateDifferenceProvider.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_JAN' is not final.
+src/service/DateDifferenceProvider.java:12:	The static field name 'Day_IN_JAN' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:12:	Variables should start with a lowercase character, 'Day_IN_JAN' starts with uppercase character.
+src/service/DateDifferenceProvider.java:13:	Field comments are required
+src/service/DateDifferenceProvider.java:13:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_FEB' is not final.
+src/service/DateDifferenceProvider.java:13:	The static field name 'Day_IN_FEB' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:13:	Variables should start with a lowercase character, 'Day_IN_FEB' starts with uppercase character.
+src/service/DateDifferenceProvider.java:14:	Field comments are required
+src/service/DateDifferenceProvider.java:14:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_MAR' is not final.
+src/service/DateDifferenceProvider.java:14:	The static field name 'Day_IN_MAR' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:14:	Variables should start with a lowercase character, 'Day_IN_MAR' starts with uppercase character.
+src/service/DateDifferenceProvider.java:15:	Field comments are required
+src/service/DateDifferenceProvider.java:15:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_APR' is not final.
+src/service/DateDifferenceProvider.java:15:	The static field name 'Day_IN_APR' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:15:	Variables should start with a lowercase character, 'Day_IN_APR' starts with uppercase character.
+src/service/DateDifferenceProvider.java:16:	Field comments are required
+src/service/DateDifferenceProvider.java:16:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_MAY' is not final.
+src/service/DateDifferenceProvider.java:16:	The static field name 'Day_IN_MAY' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:16:	Variables should start with a lowercase character, 'Day_IN_MAY' starts with uppercase character.
+src/service/DateDifferenceProvider.java:17:	Field comments are required
+src/service/DateDifferenceProvider.java:17:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_JUN' is not final.
+src/service/DateDifferenceProvider.java:17:	The static field name 'Day_IN_JUN' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:17:	Variables should start with a lowercase character, 'Day_IN_JUN' starts with uppercase character.
+src/service/DateDifferenceProvider.java:18:	Field comments are required
+src/service/DateDifferenceProvider.java:18:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_JUL' is not final.
+src/service/DateDifferenceProvider.java:18:	The static field name 'Day_IN_JUL' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:18:	Variables should start with a lowercase character, 'Day_IN_JUL' starts with uppercase character.
+src/service/DateDifferenceProvider.java:19:	Field comments are required
+src/service/DateDifferenceProvider.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_AUG' is not final.
+src/service/DateDifferenceProvider.java:19:	The static field name 'Day_IN_AUG' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:19:	Variables should start with a lowercase character, 'Day_IN_AUG' starts with uppercase character.
+src/service/DateDifferenceProvider.java:20:	Field comments are required
+src/service/DateDifferenceProvider.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_SEP' is not final.
+src/service/DateDifferenceProvider.java:20:	The static field name 'Day_IN_SEP' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:20:	Variables should start with a lowercase character, 'Day_IN_SEP' starts with uppercase character.
+src/service/DateDifferenceProvider.java:21:	Field comments are required
+src/service/DateDifferenceProvider.java:21:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_OCT' is not final.
+src/service/DateDifferenceProvider.java:21:	The static field name 'Day_IN_OCT' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:21:	Variables should start with a lowercase character, 'Day_IN_OCT' starts with uppercase character.
+src/service/DateDifferenceProvider.java:22:	Field comments are required
+src/service/DateDifferenceProvider.java:22:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_NOV' is not final.
+src/service/DateDifferenceProvider.java:22:	The static field name 'Day_IN_NOV' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:22:	Variables should start with a lowercase character, 'Day_IN_NOV' starts with uppercase character.
+src/service/DateDifferenceProvider.java:23:	Field comments are required
+src/service/DateDifferenceProvider.java:23:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'Day_IN_DEC' is not final.
+src/service/DateDifferenceProvider.java:23:	The static field name 'Day_IN_DEC' doesn't match '[a-z][a-zA-Z0-9]*'
+src/service/DateDifferenceProvider.java:23:	Variables should start with a lowercase character, 'Day_IN_DEC' starts with uppercase character.
+src/service/DateDifferenceProvider.java:27:	Field comments are required
+src/service/DateDifferenceProvider.java:40:	Parameter 'endDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:40:	Parameter 'startDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:40:	Public method and constructor comments are required
+src/service/DateDifferenceProvider.java:46:	A method should have only one exit point, and that should be the last statement in the method
+src/service/DateDifferenceProvider.java:51:	A method should have only one exit point, and that should be the last statement in the method
+src/service/DateDifferenceProvider.java:57:	A method should have only one exit point, and that should be the last statement in the method
+src/service/DateDifferenceProvider.java:72:	Parameter 'date1' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:72:	Parameter 'date2' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:74:	Useless parentheses.
+src/service/DateDifferenceProvider.java:77:	Parameter 'date1' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:77:	Parameter 'date2' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:79:	Useless parentheses.
+src/service/DateDifferenceProvider.java:82:	Parameter 'date1' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:82:	Parameter 'date2' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:84:	Useless parentheses.
+src/service/DateDifferenceProvider.java:87:	Parameter 'date' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:89:	Local variable 'month' could be declared final
+src/service/DateDifferenceProvider.java:90:	Found 'DD'-anomaly for variable 'remainingDays' (lines '90'-'92').
+src/service/DateDifferenceProvider.java:91:	Avoid using if statements without curly braces
+src/service/DateDifferenceProvider.java:92:	This statement should have braces
+src/service/DateDifferenceProvider.java:96:	Parameter 'date' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:101:	Parameter 'date' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:102:	Local variable 'month' could be declared final
+src/service/DateDifferenceProvider.java:103:	Avoid unnecessary if..then..else statements when returning booleans
+src/service/DateDifferenceProvider.java:104:	A method should have only one exit point, and that should be the last statement in the method
+src/service/DateDifferenceProvider.java:109:	Parameter 'date' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:110:	Local variable 'year' could be declared final
+src/service/DateDifferenceProvider.java:111:	Avoid unnecessary if..then..else statements when returning booleans
+src/service/DateDifferenceProvider.java:112:	A method should have only one exit point, and that should be the last statement in the method
+src/service/DateDifferenceProvider.java:112:	Avoid using if...else statements without curly braces
+src/service/DateDifferenceProvider.java:112:	This statement should have braces
+src/service/DateDifferenceProvider.java:114:	Avoid using if...else statements without curly braces
+src/service/DateDifferenceProvider.java:114:	This statement should have braces
+src/service/DateDifferenceProvider.java:118:	Parameter 'endDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:118:	Parameter 'startDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:119:	Local variable 'startMonth' could be declared final
+src/service/DateDifferenceProvider.java:120:	Local variable 'endMonth' could be declared final
+src/service/DateDifferenceProvider.java:121:	Found 'DD'-anomaly for variable 'days' (lines '121'-'129').
+src/service/DateDifferenceProvider.java:135:	Parameter 'endDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:135:	Parameter 'startDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:137:	Found 'DD'-anomaly for variable 'remainingdays' (lines '137'-'142').
+src/service/DateDifferenceProvider.java:137:	Found 'DD'-anomaly for variable 'remainingdays' (lines '137'-'144').
+src/service/DateDifferenceProvider.java:141:	Avoid instantiating new objects inside loops
+src/service/DateDifferenceProvider.java:142:	Avoid using if...else statements without curly braces
+src/service/DateDifferenceProvider.java:142:	This statement should have braces
+src/service/DateDifferenceProvider.java:144:	Avoid using if...else statements without curly braces
+src/service/DateDifferenceProvider.java:144:	This statement should have braces
+src/service/DateDifferenceProvider.java:150:	Parameter 'startDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:152:	Found 'DD'-anomaly for variable 'daysRemaining' (lines '152'-'156').
+src/service/DateDifferenceProvider.java:152:	Found 'DD'-anomaly for variable 'daysRemaining' (lines '152'-'159').
+src/service/DateDifferenceProvider.java:159:	Potential violation of Law of Demeter (method chain calls)
+src/service/DateDifferenceProvider.java:161:	Avoid using if statements without curly braces
+src/service/DateDifferenceProvider.java:162:	This statement should have braces
+src/service/DateDifferenceProvider.java:169:	Parameter 'endDate' is not assigned and could be declared final
+src/service/DateDifferenceProvider.java:171:	Found 'DD'-anomaly for variable 'daysRemaining' (lines '171'-'175').
+src/service/DateDifferenceProvider.java:171:	Found 'DD'-anomaly for variable 'daysRemaining' (lines '171'-'178').
+src/service/DateDifferenceProvider.java:180:	Avoid using if statements without curly braces
+src/service/DateDifferenceProvider.java:181:	This statement should have braces
+src/service/support/MyDate.java:4:	Header comments are required
+src/service/support/MyDate.java:5:	Avoid variables with short names like dd
+src/service/support/MyDate.java:5:	Avoid variables with short names like mm
+src/service/support/MyDate.java:5:	Field comments are required
+src/service/support/MyDate.java:5:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/service/support/MyDate.java:5:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/service/support/MyDate.java:5:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/service/support/MyDate.java:5:	Private field 'dd' could be made final; it is only initialized in the declaration or constructor.
+src/service/support/MyDate.java:5:	Private field 'mm' could be made final; it is only initialized in the declaration or constructor.
+src/service/support/MyDate.java:5:	Private field 'yyyy' could be made final; it is only initialized in the declaration or constructor.
+src/service/support/MyDate.java:5:	Use one line for each declaration, it enhances code readability.
+src/service/support/MyDate.java:7:	Avoid variables with short names like dd
+src/service/support/MyDate.java:7:	Avoid variables with short names like mm
+src/service/support/MyDate.java:7:	Parameter 'dd' is not assigned and could be declared final
+src/service/support/MyDate.java:7:	Parameter 'mm' is not assigned and could be declared final
+src/service/support/MyDate.java:7:	Parameter 'yyyy' is not assigned and could be declared final
+src/service/support/MyDate.java:7:	Public method and constructor comments are required
+src/service/support/MyDate.java:18:	Public method and constructor comments are required
+src/service/support/MyDate.java:22:	Public method and constructor comments are required
+src/test/MyDateTestRecord.java:6:	Header comments are required
+src/test/MyDateTestRecord.java:7:	Field comments are required
+src/test/MyDateTestRecord.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/MyDateTestRecord.java:8:	Field comments are required
+src/test/MyDateTestRecord.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/MyDateTestRecord.java:9:	Field comments are required
+src/test/MyDateTestRecord.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/MyDateTestRecord.java:10:	Parameter 'endDate' is not assigned and could be declared final
+src/test/MyDateTestRecord.java:10:	Parameter 'expectedResult' is not assigned and could be declared final
+src/test/MyDateTestRecord.java:10:	Parameter 'startDate' is not assigned and could be declared final
+src/test/MyDateTestRecord.java:10:	Public method and constructor comments are required
+src/test/TestUnit.java:5:	Avoid unused imports such as 'java.util.logging.Level'
+src/test/TestUnit.java:6:	Avoid unused imports such as 'java.util.logging.Logger'
+src/test/TestUnit.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/test/TestUnit.java:10:	Header comments are required
+src/test/TestUnit.java:13:	Found 'UR'-anomaly for variable 'testCase' (lines '13'-'94').
+src/test/TestUnit.java:13:	Parameter 'args' is not assigned and could be declared final
+src/test/TestUnit.java:13:	Public method and constructor comments are required
+src/test/TestUnit.java:17:	Local variable 'testData' could be declared final
+src/test/TestUnit.java:92:	Local variable 'testCase' could be declared final
+src/test/TestUnit.java:94:	Local variable 'startDate' could be declared final
+src/test/TestUnit.java:95:	Local variable 'endDate' could be declared final
+src/test/TestUnit.java:96:	Local variable 'expectedResult' could be declared final
+src/test/TestUnit.java:97:	Local variable 'obtainedResult' could be declared final
+src/test/TestUnit.java:100:	Avoid using if...else statements without curly braces
+src/test/TestUnit.java:100:	System.out.println is used
+src/test/TestUnit.java:100:	This statement should have braces
+src/test/TestUnit.java:102:	Avoid using if...else statements without curly braces
+src/test/TestUnit.java:102:	System.out.println is used
+src/test/TestUnit.java:102:	This statement should have braces
