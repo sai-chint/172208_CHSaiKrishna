@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+    "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	
+	<bean id="question" class="com.spring.Question">
+		<property name="questionId" value="1"/>
+		<property name="question" value="what is your name ?"/>
+		<property name="answers" value="SAI KRISHNA"/>
+	</bean>
+	
+	<bean id="question1" class="com.spring.Question">
+		<property name="questionId" value="2"/>
+		<property name="question" value="What is your age ?"/>
+		<property name="answers" value="22"/>
+	</bean>
+
+<!-- 	<bean id="setans" class="com.spring.SetAnswers"> -->
+<!-- 		<property name="answers"> -->
+<!-- 		<set> -->
+<!-- 			<ref bean="question"></ref> -->
+<!-- 			<ref bean="question1"></ref> -->
+<!-- 		</set>  -->
+<!-- 		</property> -->
+<!-- 	</bean> -->
+	
+<!-- 	<bean id="listans" class="com.spring.ListAnswers"> -->
+<!-- 		<property name="answers"> -->
+<!-- 		<set> -->
+<!-- 			<ref bean="question"></ref> -->
+<!-- 			<ref bean="question1"></ref> -->
+<!-- 		</set>  -->
+<!-- 		</property> -->
+<!-- 	</bean> -->
+	
+	<bean id="mapans" class="com.spring.MapAnswers">
+		<property name="answers">
+		<set>
+			<ref bean="question"></ref>
+			<ref bean="question1"></ref>
+		</set> 
+		</property>
+	</bean>
+
+</beans>
