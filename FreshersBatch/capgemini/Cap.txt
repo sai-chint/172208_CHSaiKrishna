@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Capgemini Freshers</title>
+
+</head>
+<body>
+<p>Capgemini SE is a French multinational professional services and business consulting corporation headquartered 
+in Paris, France.[3] It provides IT services and is one of the world's largest IT consulting, outsourcing and 
+professional services companies with over 200,000 employees in over 40 countries,[4][5][6] of whom nearly 100,000 are 
+in India</p>
+</body>
+</html>
