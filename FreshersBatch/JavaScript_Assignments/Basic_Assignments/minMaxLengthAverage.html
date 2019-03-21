@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <script>
+            function minMaxLengthAverage(arr) {
+                const min = Math.min.apply(null,arr);
+                const max = Math.max(...arr);
+                const len = arr.length;
+
+                var val=0,avg;
+                for(i=0;i<len;i++){  
+                   val = val + arr[i];
+                }avg = val/len;
+                return [min, max, len,avg];
+            }console.log(minMaxLengthAverage([7, 13, 3, 77, 100]));
+        </script>
+    </body>
+</html>

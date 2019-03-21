@@ -1,0 +1,20 @@
+<html>
+    <head>
+    </head>
+    <body>
+    <script>
+
+    function getAbsoluteSum(arr) {
+  const reducer = (acc, currVal) => {
+    return acc + currVal;
+  };
+
+  return Math.abs(arr.reduce(reducer));
+}
+ console.log(getAbsoluteSum([-17, -08, -1, -9, -9, 6]));
+
+    </script>
+
+	</body>
+
+</html>
